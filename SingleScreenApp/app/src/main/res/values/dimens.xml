@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_default_margin">16dp</dimen>
+    <dimen name="_default_text_size">24sp</dimen>
+    <dimen name="_image_margin">256dp</dimen>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:adjustViewBounds="true"
+        app:srcCompat="@drawable/bethesda" />
+
+    <TextView
+        android:id="@+id/webSite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo"
+        android:layout_marginLeft="@dimen/_default_margin"
+        android:layout_marginTop="@dimen/_default_margin"
+        android:autoLink="web"
+        android:drawableLeft="@android:drawable/ic_menu_myplaces"
+        android:drawablePadding="@dimen/_default_margin"
+        android:text="@string/web"
+        android:textSize="@dimen/_default_text_size" />
+
+
+    <TextView
+        android:id="@+id/phoneNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/webSite"
+        android:layout_marginLeft="@dimen/_default_margin"
+        android:layout_marginTop="@dimen/_default_margin"
+        android:autoLink="phone"
+        android:drawableLeft="@android:drawable/ic_menu_call"
+        android:drawablePadding="@dimen/_default_margin"
+        android:text="@string/phone"
+        android:textSize="@dimen/_default_text_size" />
+
+    <TextView
+        android:id="@+id/address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/phoneNumber"
+        android:layout_marginLeft="@dimen/_default_margin"
+        android:layout_marginTop="@dimen/_default_margin"
+        android:autoLink="map"
+        android:drawableLeft="@android:drawable/ic_menu_mylocation"
+        android:drawablePadding="@dimen/_default_margin"
+        android:text="@string/address"
+        android:textSize="@dimen/_default_text_size" />
+</RelativeLayout>
