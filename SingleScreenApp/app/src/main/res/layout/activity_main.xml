@@ -95,6 +95,17 @@
                 android:text="@string/location"
                 android:textSize="@dimen/_default_text_size" />
 
+            <TextView
+                android:id="@+id/locationIn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_default_margin"
+                android:autoLink="map"
+                android:drawableLeft="@android:drawable/ic_menu_mylocation"
+                android:drawablePadding="@dimen/_default_margin"
+                android:text="@string/locationIn"
+                android:textSize="@dimen/_default_text_size" />
+
             <View
                 android:id="@+id/ruler3"
                 android:layout_width="fill_parent"
