@@ -1,7 +1,15 @@
 <resources>
     <string name="app_name">Bethesda Children\'s Hospital</string>
-    <string name="bethesda">Bethesda Children\'s Hospital</string>
+    <string name="contact">Contact</string>
     <string name="phone">003613649020</string>
     <string name="web">http://www.bethesda.hu</string>
-    <string name="address">Budapest,+Bethesda+u.+3,+1146</string>
+    <string name="address">Address</string>
+    <string name="location">Budapest,Bethesda u. 3,1146</string>
+    <string name="about">About</string>
+    <string name="description">The Children Hospital Bethesda provides medical and mental health care for children between 0-18 ages. The main aim is to give patients high standards of medical service but it is also important to conducive to personal, emotional, social spiritual growth. Within the hospital setting Bethesda group children according to their chronological age and medical needs. The Hospital has 150 beds and the possibility to effective work in nine different departments such as internal medicine, surgery, ER, neurology, lab, diagnostic, dermatological centre and we have a new department for rehabilitation. The Hospital cares annual about 100.000 children in the ambulant care system. There are about 310 staff, where are around 150 nurses, 50 doctors and other staff for running the hospital everyday life. The Bethesda Children Hospital is the only church established children hospital in Eastern Europe, where the patient whole healing is taken into consideration. There are pastors and therapist, who are also supporting the children’s mental and spiritual healing.
+        The hospital has its own epilepsy department and Hungary’s only children burn centre.
+        The hospital has around 30-40 local volunteers from different age who are coming to support the children or helping the hospital in other ways.
+        The volunteer will work mainly with the rehabilitation department where the playing room is situated. There are children for a longer term for example after an accident and they have to learn to move, to speak and to walk again.
+
+        As a children hospital it is very important for us to keep children in a good atmosphere, so they are motivated mentally in their healing, therefore we are looking for young people with creativity who are able to listen and support child and families in a difficult situation. Therefore we keep integrated our clients into social life like a playing room and play some little games, to let them to get in touch with other cultures where they can focus not on their illness but something else, be joyful about something and play with young people who do voluntary service. We want to open our hospital for everybody who wants to bring fresh air into our work, to the children but also to the staff. A volunteer having a different cultural background and showing competencies (patience and be kind with ill children) could enrich our work at a large extend.</string>
 </resources>
