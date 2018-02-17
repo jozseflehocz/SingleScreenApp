@@ -1,3 +1,3 @@
 # Single Screen App
-# Installation
+## Installation
 The app can be installed view USB cable only.
