@@ -22,7 +22,7 @@
                 android:layout_alignParentTop="true"
                 android:layout_margin="@dimen/_default_margin"
                 android:adjustViewBounds="true"
-                app:srcCompat="@drawable/bethesda1920617" />
+                app:srcCompat="@drawable/bethesda" />
 
             <View
                 android:id="@+id/ruler1"
