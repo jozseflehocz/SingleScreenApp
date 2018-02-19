@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showOnMap(View v) {
-        String bethesdaUri = "geo:47.5180291,19.0882222,157?z=17";
+        String bethesdaUri = getString(R.string.bethesdaUri);
         // Creates an Intent that will load a map of San Francisco
         Uri gmmIntentUri = Uri.parse(bethesdaUri);
         Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);

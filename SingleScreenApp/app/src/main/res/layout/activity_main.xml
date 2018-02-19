@@ -108,8 +108,7 @@
                 android:onClick="showOnMap"
                 android:text="@string/location"
                 android:textColor="@color/colorAccent"
-                android:textSize="@dimen/_default_text_size"
-                android:textStyle="" />
+                android:textSize="@dimen/_default_text_size" />
 
             <View
                 android:id="@+id/ruler3"
