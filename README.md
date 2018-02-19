@@ -11,7 +11,7 @@ The following features has been implemented:
 1. Name of the hospital
 2. Logo of the hospital
 3. Information:
-  * Contact information for the hospital (phone number, email address, website)
-  * Address of the hospital (with [working map location](https://developers.google.com/maps/documentation/urls/android-intents) link)
+  * Contact information for the hospital (phone number, email address, website [with android:autoLink](https://developer.android.com/reference/android/widget/TextView.html#attr_android:autoLink) )
+  * Address of the hospital ([with working map location](https://developers.google.com/maps/documentation/urls/android-intents) link)
   * Description of business
 4. Customized launch icon
